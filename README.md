@@ -51,4 +51,4 @@ Users should be able to:
 ### Useful resources
 
 - [GlideJS](https://glidejs.com/docs/setup/) - Library to check out
-- [Geeks for Geeks](https://www.geeksforgeeks.org/creating-custom-image-slider-javascript/)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/creating-custom-image-slider-javascript/) - image slider
